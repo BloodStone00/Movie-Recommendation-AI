@@ -1,0 +1,10 @@
+READ ME
+
+To run this code first you will need a dataset in csv format
+
+First go to cmd run 'ollama run llama3.2' (llama3.2 needs to be downloaded)
+Then run Model Trainer after changing the name of the csv you want to use
+Then run Find Movie 
+
+The program will output the movies from the dataset which are closest to movie you provided in the Find Movie program
+
